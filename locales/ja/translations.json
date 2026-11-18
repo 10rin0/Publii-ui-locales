@@ -154,7 +154,7 @@
             "retrievingHandlerOfRemoteFilesTree": "リモートファイルツリーハンドラーの取得...",
             "retrievingRemoteFilesTree": "リモートファイルツリーの取得...",
             "tokenOrServerAddressInvalid": "指定された資格情報またはサーバー/リポジトリのアドレスが無効です。",
-            "tooManyFilesInfo": "サイトには 4000 以上の項目があります ({numberOfFiles} ファイル・ディレクトリ)。現在 Github Pages の実装は 4000 項目までのウェブサイトにしか対応していません。"
+            "tooManyFilesInfo": "サイトには 4000 以上の項目があります ({numberOfFiles} ファイル・ディレクトリ)。現在 GitHub Pages の実装は 4000 項目までのウェブサイトにしか対応していません。"
         },
         "site": {
             "noConfigurationForResponsiveImages": "レスポンシブ画像の設定データはありません",
