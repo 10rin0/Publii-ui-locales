@@ -217,7 +217,7 @@
         "alignTextCenter": "テキストを中央寄せ",
         "alignTextLeft": "テキストを左寄せ",
         "alignTextRight": "テキストを右寄せ",
-        "blockEditorHelpPanelDesc": "新しい行で <span>+</span> または <span>TAB</span> ボタンをクリックするか、新しい行で次のショートカットまたは Markdown 構文を入力して、ブロックを挿入できます。:",
+        "blockEditorHelpPanelDesc": "新しい行で <span>+</span> をクリックするか <span>TAB</span> キーを押すか、新しい行で次のショートカットまたは Markdown 構文を入力して、ブロックを挿入できます:",
         "blocks": {
             "code": {
                 "plainText": "プレーンテキスト",
